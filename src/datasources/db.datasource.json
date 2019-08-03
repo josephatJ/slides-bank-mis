@@ -1,0 +1,10 @@
+{
+  "name": "db",
+  "connector": "postgresql",
+  "url": "",
+  "host": "localhost",
+  "port": 5432,
+  "user": "system",
+  "password": "SYSTEM1234",
+  "database": "slides_bank"
+}
